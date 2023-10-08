@@ -8,4 +8,4 @@ export AWS_BUCKET=hosting-bucket-839635154001
 export AWS_REGION=us-west-2
 export AWS_PROFILE=default
 export JWT_SECRET=mysecrets_chientd2
-export URL=http://udagram-api-dev2.us-west-2.elasticbeanstalk.com
+export URL=http://udagram-api-dev.us-west-2.elasticbeanstalk.com
