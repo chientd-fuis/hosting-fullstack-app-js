@@ -1,6 +1,6 @@
 # Hosting a Full Stack Application
 
-### Dependencies
+## Dependencies
 
 ```
 - Node v14.15.5 (LTS) or more recent. While older versions can work it is advisable to keep node to latest LTS version
@@ -14,7 +14,6 @@
 - A S3 bucket for hosting uploaded pictures.
 
 ```
-
 
 ## Environment 
 set .env variable
